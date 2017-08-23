@@ -1,0 +1,11 @@
+{
+  "name": "slate-docs-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp --gulpfile ../gulpfile_slate-docs.js serve",
+    "build": "gulp --gulpfile ../gulpfile_slate-docs.js"
+  },
+  "dependencies": {
+    "@strictd/slate-docs": "^1.0.0"
+  }
+}
